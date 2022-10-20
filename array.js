@@ -1,5 +1,4 @@
 
-
 var arr = [2, 4, 6, 8, 10]
 var max=arr[arr.length-1];
 
